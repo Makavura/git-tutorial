@@ -13,10 +13,11 @@ __Version Control Automatic way to track changes__
 
 ### Popular Git PLatforms
 
-![Github](github-icon.jpg=250x250)
 
 <img src="github-icon.jpg" width="250" height="250">
-![Gitlab](GitLab_Logo.svg.png)
+
+<img src="GitLab_Logo.svg.png" width="250" height="250">
+
 
 ## Commands you need to know
 
