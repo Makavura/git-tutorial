@@ -105,8 +105,19 @@ __Start Flexin (run the commands people are afraid of)__
 
 #### Links
 
-(Github SSH Keys)[https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent]
+[Github SSH Keys](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 [Gitlab SSH Keys](https://docs.gitlab.com/ee/ssh)
 
 
+[Learn Enough Git to be dangerous](https://www.learnenough.com/git-tutorial/getting_started)
+
+[Markdown Guide](https://guides.github.com/features/mastering-markdown/)
+
+[Essetial Git Commands Every Developer should know](https://dev.to/dhruv/essential-git-commands-every-developer-should-know-2fl)
+
+## Credits for the links posted go to the content creators
+
+### This is meant to be a guide, I do not claim ownership to content provided in the links and/or images attached
+
+#### Git Flex!!!
