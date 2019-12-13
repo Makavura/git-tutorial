@@ -103,4 +103,10 @@ __Start Flexin (run the commands people are afraid of)__
 `git remote`: check source
 
 
+#### Links
+
+(Github SSH Keys)[https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent]
+
+[Gitlab SSH Keys](https://docs.gitlab.com/ee/ssh)
+
 
