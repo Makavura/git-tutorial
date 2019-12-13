@@ -1,4 +1,5 @@
-![Git](Git-icon-black.svg.png)
+
+<img src="Git-icon-black.svg.png" width="250" height="250">
 
 # git-tutorial
 
