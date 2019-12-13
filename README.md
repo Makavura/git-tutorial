@@ -2,7 +2,7 @@
 
 # git-tutorial
 
-__ Version Control Automatic way to track changes __
+__Version Control Automatic way to track changes__
 
 ## Why use Git
 
@@ -13,7 +13,7 @@ __ Version Control Automatic way to track changes __
 
 ### Popular Git PLatforms
 
-![Github](github-icon.jpg)
+![Github](github-icon.jpg =250x250)
 
 ![Gitlab](GitLab_Logo.svg.png)
 
